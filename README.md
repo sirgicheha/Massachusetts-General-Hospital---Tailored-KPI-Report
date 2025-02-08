@@ -63,4 +63,4 @@ This analysis provides a snapshot of MGH’s performance across patient admissio
 - Drop in readmission rate on 2020 onwards was assumed to be caused by the pandemic.
 - **Length of stay** calculations only include encounters labeled as inpatient admissions.
 - Cost data reflects a spike in expenses during the pandemic period (2020), which may not represent typical operational conditions.
-- Excel on Mac posed specific challenges, particularly with functions like 'Distinct Count' in pivot tables, which affected the interactivity of dashboard elements like admissions. Moving to a more robust data visualization tool like Tableau would've streamlined this process.
+- Excel posed some challenges, particularly with functions like 'Distinct Count' in pivot tables, which affected the interactivity of dashboard elements like admissions. Moving to a more robust data visualization tool like Tableau would've streamlined this process.
