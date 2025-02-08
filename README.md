@@ -1,4 +1,4 @@
-# Massachusetts General Hospital - Tailored KPI Report
+# Massachusetts Hospital KPI Report
 
 ![MGH - KPI Report](KPI_Report.png)
 
